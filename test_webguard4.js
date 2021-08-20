@@ -12,21 +12,21 @@ document.addEventListener("DOMContentLoaded", function(event) {
     document.getElementById('third-img').src = '/mywebguard/static/src/img/mywebguard.png';
 
     //appendChild
-    const box = document.getElementById('top_menu_collapse');
-    const first = document.createElement('div');
-    first.innerHTML = 'FIRST -- ';
-    box.appendChild(first);
+//     const box = document.getElementById('top_menu_collapse');
+//     const first = document.createElement('div');
+//     first.innerHTML = 'FIRST -- ';
+//     box.appendChild(first);
 
-    const second = document.createElement('div');
-    second.innerHTML = 'SECOND -- ';
-    box.appendChild(second);
+//     const second = document.createElement('div');
+//     second.innerHTML = 'SECOND -- ';
+//     box.appendChild(second);
 
 
-    const third = document.createElement('div');
-    third.innerHTML = 'THIRD -- ';
-    box.appendChild(third);
+//     const third = document.createElement('div');
+//     third.innerHTML = 'THIRD -- ';
+//     box.appendChild(third);
 
-    const fourth = document.createElement('div');
-    fourth.innerHTML = 'FOURTH -- ';
-    box.appendChild(fourth);
+//     const fourth = document.createElement('div');
+//     fourth.innerHTML = 'FOURTH -- ';
+//     box.appendChild(fourth);
 });
